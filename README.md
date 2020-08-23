@@ -1,5 +1,8 @@
-* You can run passport.service with java -jar command. You can find the jar file in passport.service directory. The other requirment is installing mysql.
-Install mysql and use the sql files in DatabaseCreation directory to create database. Set user options as user: root password:Ece123456
+* It is a Rest service that is created with Spring Boot, Spring JPA and Hibernate.
+* Crate a MySQL database using sql files under PassportDatabaseSqlfiles folder. The database containg all passports and their visa informations.
+* Change application.properties access credential with yours.
+* For packaging use "mvn package". It creates a jar file. "java -jar <your jar file>"
+
 
 **Provided Rest Services**
 ***********************************************************************************
