@@ -1,7 +1,7 @@
 * It is a Rest service that is created with Spring Boot, Spring JPA and Hibernate.
 * Crate a MySQL database using sql files under PassportDatabaseSqlfiles folder. The database containg all passports and their visa informations.
 * Change application.properties access credential with yours.
-* For packaging use "mvn package". It creates a jar file. "java -jar <your jar file>"
+* For packaging use "mvn package". It creates a jar file. "java -jar your jar file"
 
 
 **Provided Rest Services**
